@@ -1,8 +1,4 @@
 /** @module Login-Script */
-/** 
-* Membuat variabel loginFormElement untuk tampilan form.
-* @constant {HTMLElement}
-*/
 
 /** 
 * Membuat variabel inputEmailElement untuk tampilan input email.
